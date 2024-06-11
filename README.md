@@ -1,1 +1,2 @@
 # graphene-edges-code
+To understand topological phases in graphene, electronic structure of edges quite important. We have written a simple tight-binding Hamiltonian code for armchair and zigzag edges of graphene. By using this code, you can understand topological phase in grahene as explained in Kane-Mele model for Quantum Spin Hall effect [Phys. Rev. Lett. 95, 146802 (2005)]. This code is written by Chandan K. Singh and Surjit Sarkar.
