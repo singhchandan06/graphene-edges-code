@@ -7,7 +7,6 @@ import random
 import math 
 
 import time
-%matplotlib inline
 import glob
 import numpy as np
 
